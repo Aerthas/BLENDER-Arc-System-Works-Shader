@@ -5,6 +5,7 @@ Youtube playlist detailing how to set up models and usage of the shader: [Link t
 
 ![Bandit Bringer](Previews/Bandit-Bringer.gif)<br/>
 ![The fuck](Previews/The%20fuck.png)<br/>
+![Face](Previews/Facial-Animations.gif)<br/>
 
 ![Goku](Previews/Goku.gif)<br/>
 ![Sol](Previews/Sol.gif)<br/>
