@@ -1,6 +1,6 @@
 # Arc System Works Shader - Blender Edition
 ## If you are looking for my Unity Arc System Works shaders, they are found here:
-https://github.com/Aerthas/Aerthas-Unity-Shaders<br/>
+https://github.com/Aerthas/UNITY-Arc-system-Works-Shader<br/>
 Youtube playlist detailing how to set up models and usage of the shader: [Link to playlist here](https://www.youtube.com/playlist?list=PLCkHUM_E60CSi1HowXR3v4uVWNqUDsl9l)<br/>
 If you have any questions, or want to show off some renders, [feel free to join my discord](https://discord.gg/EkCSZg8).
 
