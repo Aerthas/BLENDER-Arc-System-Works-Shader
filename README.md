@@ -4,9 +4,12 @@
 https://github.com/Aerthas/UNITY-Arc-system-Works-Shader<br/>
 Youtube playlist detailing how to set up models and usage of the shader: [Link to playlist here](https://www.youtube.com/playlist?list=PLCkHUM_E60CSi1HowXR3v4uVWNqUDsl9l)<br/>
 If you have any questions, or want to show off some renders, [feel free to join my discord](https://discord.gg/EkCSZg8).<br/>
-The following is rendered using the shader in Blender 3.0 Eevee.
+The following are renders using the shader in Blender 3.0 Eevee.
 
 ![Idle Anim](Previews/Idle-Anim.gif)<br/>
+![Idle Anim](Previews/Narmaya-Emote-Gif.gif)<br/>
+![Idle Anim](Previews/Cell-Idle-Gif.gif)<br/>
+![Idle Anim](Previews/Jack-O-Dance-Gif.gif)<br/>
 
 Still a work in progress
 Based on my Unity shader, but due to limitations of Blender nodes there is no control on the outline thickness that the Unity shader has.<br/>
