@@ -1,0 +1,13 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+2cf12177-56dc-474f-9ee7-79c05fe812e9:Arc System Works Shader:Arc System Works Shader
+2b4909ea-1f2c-4a1a-aa27-bfbb19be36f2:Arc System Works Shader/Materials:Arc System Works Shader-Materials
+f59ed6d3-dbe5-47de-b057-f3e25351825c:Arc System Works Shader/Materials/Primary Shaders:Arc System Works Shader-Materials-Primary Shaders
+bcae0041-e1f4-4d7f-9dfb-54ad90774198:Arc System Works Shader/Materials/Utility Shaders:Arc System Works Shader-Materials-Utility Shaders
+bd0c733c-83f2-4647-b562-f5e6d977fd61:Arc System Works Shader/Objects:Arc System Works Shader-Objects
