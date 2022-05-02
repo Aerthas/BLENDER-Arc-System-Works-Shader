@@ -1,4 +1,5 @@
-# Arc System Works Shader - Blender Edition ONLY FOR 3.0 Beta
+# Arc System Works Shader - Blender Edition PLEASE READ VERSION NUMBER FOR REQUIRED BLENDER VERSION!
+## [BLENDER MAIN VERSION].[SECONDARY].[TERTIARY].[SHADER VERSION]
 ## Older versions of Blender can be found under the revision history
 ## If you are looking for my Unity Arc System Works shaders, they are found here:
 https://github.com/Aerthas/UNITY-Arc-system-Works-Shader<br/>
@@ -13,4 +14,3 @@ The following are renders using the shader in Blender 3.0 Eevee.
 
 Still a work in progress
 Based on my Unity shader, but due to limitations of Blender nodes there is no control on the outline thickness that the Unity shader has.<br/>
-If you know how to do a vertex offset inside of Blender using shaders, please let me know.<br/>
